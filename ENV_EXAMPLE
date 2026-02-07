@@ -1,0 +1,7 @@
+ADMIN_USERNAME=your_admin_username
+ADMIN_PASSWORD=your_admin_password_here
+DATABASE_NAME=your_database_name
+DIALECT=mysql
+DIALECTMODEL=mysql2
+DB_PORT=your_database_port
+HOST=your_database_host.com
